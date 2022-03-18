@@ -1,5 +1,7 @@
 # actividadGrupal
 
+iker + juan del campo + camino + portilla---------------------
+
 Requisitos:
 -base de datos : postgres
 -modelo : productos (id, nombre, unidades, precio
