@@ -33,7 +33,7 @@
                 <div class="contenido">
                     <div class="summary">
                         <h1>MVC MYSQL</h1>
-                        <div class="fecha">11/03/2022</div>
+                        <div class="fecha">18/03/2022</div>
                     </div>
                     <?php
                         require_once('routing.php');
