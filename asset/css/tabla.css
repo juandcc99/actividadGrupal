@@ -1,0 +1,30 @@
+.perkTabla{
+    border-collapse: collapse !important;
+}
+
+table {
+    width: 100%; 
+}
+
+#rojo:hover
+{
+    background-color:#FF6F6F;
+}
+th{
+    height: 42px;
+    text-align: center;
+}
+td{
+    text-align: center;
+    padding: 8px;
+}
+tr:nth-child(even){
+    background-color: #d6d6d6d4;
+}
+tr:nth-child(odd){
+    background-color: #ffffff;
+}
+tr {
+    text-align: center;
+    border: solid 1px rgb(255, 255, 255);
+}
