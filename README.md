@@ -1,6 +1,6 @@
 # actividadGrupal
 
-iker + juan del campo + camino + portilla---------------------
+Iker + Juan del Campo + Sergio Camino + Juan Portilla
 
 Requisitos:
 -base de datos : postgres
